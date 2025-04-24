@@ -26,7 +26,24 @@ Da uma olhada nos meus principais projetos. Alguns deles não são open source, 
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,py,go,scss,angular,laravel,react,mysql,docker,notion,figma&perline=8"/>
   </a>
 </p>
-E outras como: cozinhar, desenhar, cuidar de gatos e muito mais!
+<p align="center">
+  E outras como: cozinhar, desenhar, cuidar de gatos e muito mais!
+</p>
+
+## Saca só:
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=rodrigoliveirasantos&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=rodrigoliveirasantos&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=rodrigoliveirasantos&show_icons=true" />
+  </picture>
+</p>
 
 <!--
 **rodrigoliveirasantos/rodrigoliveirasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
