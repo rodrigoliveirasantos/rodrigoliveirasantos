@@ -25,8 +25,8 @@ Da uma olhada nos meus principais projetos. Alguns deles não são open source, 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,py,go,scss,angular,laravel,react,mysql,docker,notion,figma&perline=8"/>
   </a>
-  E outras como: cozinhar, desenhar, cuidar de gatos e muito mais!
 </p>
+E outras como: cozinhar, desenhar, cuidar de gatos e muito mais!
 
 <!--
 **rodrigoliveirasantos/rodrigoliveirasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
