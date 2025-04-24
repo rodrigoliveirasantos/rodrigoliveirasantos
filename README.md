@@ -18,7 +18,7 @@ Da uma olhada nos meus principais projetos. Alguns deles não são open source, 
 - [Portal Odonto Busca](https://odontobusca.com.br/): Uma plataforma para encontrar dentistas na sua região. Feito em colaboração com a [CAPS Media](https://capsmedia.com.br/) e [Umarley Ricardo](https://github.com/umarley).
 - [Site ACT Investimentos](https://www.actinvestimentos.com.br/): Feito em colaboração com a [CAPS Media](https://capsmedia.com.br/).
 - [Site Payfy.io](https://payfy.io/): Feito em colaboração com a [CAPS Media](https://capsmedia.com.br/).
-- [Glass](https://github.com/rodrigoliveirasantos/Glass): Meu primeiro projeto grande, uma plataforma para gerenciamento de clínicas. Feito em colaboração com [Diogo Alves](https://github.com/Diogo2550)
+- [Glass](https://github.com/rodrigoliveirasantos/Glass): Meu primeiro projeto grande, uma plataforma para gerenciamento de clínicas. Feito em colaboração com [Diogo Alves](https://github.com/Diogo2550). Para testar, clone também a [API](https://github.com/Diogo2550/Glass)
 
 <!--
 **rodrigoliveirasantos/rodrigoliveirasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
