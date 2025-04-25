@@ -30,7 +30,7 @@ Da uma olhada nos meus principais projetos. Alguns deles não são open source, 
   E outras como: cozinhar, desenhar, cuidar de gatos e muito mais!
 </p>
 
-## Saca só:
+## Meus stats:
 <p align="center">
   <picture>
     <source
